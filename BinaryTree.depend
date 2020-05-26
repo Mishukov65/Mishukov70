@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1590486350 source:d:\data\Учёба (сорт)\Программирование\1 курс\2 семестр (c++)\Лаба 4\8 вар\binarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+	"BinaryTree.cpp"
+
+1590485727 d:\data\Учёба (сорт)\Программирование\1 курс\2 семестр (c++)\Лаба 4\8 вар\binarytree\binarytree.h
+
+1590486467 source:d:\data\Учёба (сорт)\Программирование\1 курс\2 семестр (c++)\Лаба 4\8 вар\binarytree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+
+1590486467 d:\data\Учёба (сорт)\Программирование\1 курс\2 семестр (c++)\Лаба 4\8 вар\binarytree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+
